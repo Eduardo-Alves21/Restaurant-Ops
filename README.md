@@ -1,5 +1,5 @@
 # Restaurant-Ops
-Restaurant Analysis
+Restaurant Analysis SQL
 
 You've just been hired as a Data Analyst for the Taste of the World Café, a restaurant that has a diverse menu offerings and serves generous portions. 
 
